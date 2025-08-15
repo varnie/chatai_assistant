@@ -17,8 +17,9 @@ A simple chat application using Streamlit and LangChain with Ollama LLM (Llama 3
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-directory>
+   git clone git@github.com:varnie/chatai_assistant.git ./chatai
+   cd ./chatai
+   ```
 
 2. Install dependencies:
    ```bash
